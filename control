@@ -1,0 +1,11 @@
+Package: se.nosskirneh.betterusagebarx
+Name: BetterUsageBarX
+Depends: mobilesubstrate
+Version: 1.0
+Conflicts: com.justinpetkovic.sub
+Architecture: iphoneos-arm
+Depiction: https://andreashenriksson.se/repo/depictions/?p=se.nosskirneh.betterusagebarx
+Description: A better slim status bar alternative
+Maintainer: Andreas Henriksson
+Author: Andreas Henriksson
+Section: Tweaks

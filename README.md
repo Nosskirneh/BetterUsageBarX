@@ -1,1 +1,2 @@
-BetterUsageBarX_
+# BetterUsageBarX
+A better slim status bar alternative
