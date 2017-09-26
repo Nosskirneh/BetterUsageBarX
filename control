@@ -1,7 +1,7 @@
 Package: se.nosskirneh.betterusagebarx
 Name: BetterUsageBarX
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.1
 Conflicts: com.justinpetkovic.sub
 Architecture: iphoneos-arm
 Depiction: https://andreashenriksson.se/repo/depictions/?p=se.nosskirneh.betterusagebarx
